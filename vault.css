@@ -1,0 +1,42 @@
+h1{
+    text-align: center;
+    text-transform: uppercase;
+    text-decoration: underline;
+    color: whitesmoke;
+
+    background-color: aquamarine;
+    padding: 2%;
+    margin: 0;
+}
+h2{
+    border: 0ch;
+    color: black;
+    text-shadow: 0cap;
+    text-decoration: bisque;
+    text-align: left;
+}
+
+ body{
+ 
+    background-image:url("logo.jpg") ;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    
+
+    
+   }
+
+
+
+p{
+    color: black;
+    text-transform: calc();
+    text-align: left;
+}
+
+h3{
+    text-decoration: underline;
+    transform: rotate3d();
+    color: black;
+}
